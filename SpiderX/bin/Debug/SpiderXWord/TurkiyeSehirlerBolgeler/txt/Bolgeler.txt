@@ -1,0 +1,7 @@
+﻿Akdeniz Bölgesi
+Doğu Anadolu Bölgesi
+Ege Bölgesi
+Güneydoğu Anadolu Bölgesi
+İç Anadolu Bölgesi
+Karadeniz Bölgesi
+Marmara Bölgesi

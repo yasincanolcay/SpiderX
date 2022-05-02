@@ -1,0 +1,12 @@
+C:\csharp projelerim\SpiderX\SpiderX\bin\Debug\SpiderX.exe.config
+C:\csharp projelerim\SpiderX\SpiderX\bin\Debug\SpiderX.exe
+C:\csharp projelerim\SpiderX\SpiderX\bin\Debug\SpiderX.pdb
+C:\csharp projelerim\SpiderX\SpiderX\bin\Debug\Guna.UI2.dll
+C:\csharp projelerim\SpiderX\SpiderX\bin\Debug\MetroFramework.dll
+C:\csharp projelerim\SpiderX\SpiderX\obj\Debug\SpiderX.csproj.AssemblyReference.cache
+C:\csharp projelerim\SpiderX\SpiderX\obj\Debug\SpiderX.Form1.resources
+C:\csharp projelerim\SpiderX\SpiderX\obj\Debug\SpiderX.Properties.Resources.resources
+C:\csharp projelerim\SpiderX\SpiderX\obj\Debug\SpiderX.csproj.GenerateResource.cache
+C:\csharp projelerim\SpiderX\SpiderX\obj\Debug\SpiderX.csproj.CoreCompileInputs.cache
+C:\csharp projelerim\SpiderX\SpiderX\obj\Debug\SpiderX.exe
+C:\csharp projelerim\SpiderX\SpiderX\obj\Debug\SpiderX.pdb
